@@ -26,9 +26,7 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalisonWeudes&bg_color=0d1117&color=dbdbdb&line=0000FF&point=0000FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<div align="center">
-  <img src="https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.svg" alt="Snake animation">
-</div>
+![snake gif](https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Statistic 
