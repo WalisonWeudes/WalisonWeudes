@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=00BFFF&vCenter=true&center=true&width=1000&lines=Walison+Weudes;Information+Systems+Student;Federal+University+of+Piau%C3%AD;Software+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Staatliches&size=35&pause=1000&color=00BFFF&vCenter=true&center=true&width=1000&lines=Walison+Weudes;Information+Systems+Student;Federal+University+of+Piau%C3%AD)](https://git.io/typing-svg)
 
 
 
@@ -8,10 +8,10 @@
 
 ## Skills 
 
-> **Respectively: C, Flutter, Dart, Phyton, Visual Studio Code**
+> **Respectively: C, Flutter, Dart, Python, Visual Studio Code**
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,flutter,dart,html,phyton,vscode" />
+    <img src="https://skillicons.dev/icons?i=c,flutter,dart,python,vscode" />
   </a>
 </p>
 
@@ -45,7 +45,7 @@
 
 ## Wakatime
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=24d82331-92de-4c4e-b651-6bbb0ae73206&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WalisonWeudes&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=00BFFF&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
