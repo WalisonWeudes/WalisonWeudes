@@ -26,8 +26,6 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalisonWeudes&bg_color=0d1117&color=dbdbdb&line=0000FF&point=0000FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-![snake gif](https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.gif)
-
 
 ## Statistic 
 
@@ -35,6 +33,9 @@
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WalisonWeudes&show_icons=true&count_private=true&hide_border=true&title_color=0000FF&icon_color=0000FF&text_color=ffffff&bg_color=0d1117" alt="Walison Weudes Github Stats" />
   <img width="30%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalisonWeudes&layout=compact&hide_border=true&title_color=0000FF&text_color=ffffff&bg_color=0d1117" />
 </div>
+
+
+![snake gif](https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Wakatime
