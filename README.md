@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
 
 # Olá, eu sou Walison!!
 
@@ -21,7 +21,7 @@
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WalisonWeudes&layout=compact&bg_color=ffffff00&title_color=808080&text_color=808080&hide_border=true&locale=pt-br&show_icons=true&rank_icon=github&hide_title=true&include_all_commits=true&langs_count=4" alt="Wakatime Stats"/>
 </div>
 
-## Contribuições:
+## Contibuições:
 
 <div align="center">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WalisonWeudes&theme=dark&locale=Pt-BR&hide_border=true&bg_color=ffffff00&show_icons=true&rank_icon=github&title_color=808080" alt="Walison Weudes" />
@@ -32,4 +32,4 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalisonWeudes&bg_color=0d1117&color=dbdbdb&line=825cff&point=825cff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=footer"/>
