@@ -35,10 +35,7 @@
 </div>
 
 
-<div align="center">
-  <img src="https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.svg" alt="Snake GIF">
-</div>
-
+![snake gif](https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Wakatime
