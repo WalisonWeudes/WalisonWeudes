@@ -35,7 +35,7 @@
 </div>
 
 
-![snake gif](https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake (2).svg)
+![snake gif](https://github.com/WalisonWeudes/WalisonWeudes/blob/output/github-contribution-grid-snake.gif)
 
 
 ## Wakatime
