@@ -9,40 +9,64 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalisonWeudes&bg_color=0d1117&color=33CCCC&line=33CCCC&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=WalisonWeudes&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
-</p>
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WalisonWeudes&show_icons=true&count_private=true&hide_border=true&title_color=33CCCC&icon_color=33CCCC&text_color=c9d1d9&bg_color=0d1117" alt="Walison Weudes github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalisonWeudes&layout=compact&hide_border=true&title_color=33CCCC&text_color=33CCCC&bg_color=0d1117" />
+<div style="text-align: center;">
+  <table style="border-collapse: collapse; margin: auto;">
+    <tr>
+      <td style="border: none;">
+        <!-- Imagem -->
+        <img src="https://i.pinimg.com/originals/09/1c/c9/091cc95737fd417103a9e805e0d779a8.jpg" style="width: 450px; height: auto;" alt="Imagem">
+      </td>
+      <td style="border: none;">
+        <!-- Estatísticas do GitHub -->
+        <div align="center">
+          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WalisonWeudes&show_icons=true&count_private=true&hide_border=true&title_color=33CCCC&icon_color=33CCCC&text_color=c9d1d9&bg_color=0d1117" alt="Walison Weudes github stats" />
+        </div>
+        <!-- Linguagens Principais -->
+        <div align="center">
+          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WalisonWeudes&layout=compact&hide_border=true&title_color=33CCCC&text_color=33CCCC&bg_color=0d1117" />
+        </div>
+      </td>
+    </tr>
+  </table>
 </div>
 
 
+
+
+
+
+
+
+
  
-### Main skills:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
-![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117)&nbsp;
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![VSCode](https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117)&nbsp; 
+<div align="center">
+  <h3>Main skills:</h3>
+  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117">&nbsp; 
+</div>
 
-
-
-### Studying in this moment:
-![Flutter](https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117)&nbsp;
-![Dart](https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117)&nbsp;
+<div align="center">
+  <h3>Studying in this moment:</h3>
+  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117">&nbsp;
+</div>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WalisonWeudes&layout=compact&custom_title=Wakatime%20Stats&hide_border=true&title_color=33CCCC&text_color=ffffff&bg_color=0d1117" alt="Wakatime Stats" />
 </div>
 
+
+
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{WalisonWeudes}/count.svg" /></p> 
-<br>
+  <br>
+  <p align="center"><b>Visitors Count</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WalisonWeudes}/count.svg" /></p> 
+  <br>
 </div>
+
 
 
 
