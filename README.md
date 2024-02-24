@@ -8,13 +8,23 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WalisonWeudes&bg_color=0d1117&color=33CCCC&line=33CCCC&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<div align="center">
+  <h3>Main skills:</h3>
+  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117">&nbsp;
+  <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117">&nbsp; 
+</div>
+
+
 
 <div style="text-align: center;">
   <table style="border-collapse: collapse; margin: auto;">
     <tr>
       <td style="border: none;">
         <!-- Imagem -->
-        <img src="https://i.pinimg.com/originals/09/1c/c9/091cc95737fd417103a9e805e0d779a8.jpg" style="width: 450px; height: auto;" alt="Imagem">
+        <img src="https://i.pinimg.com/originals/09/1c/c9/091cc95737fd417103a9e805e0d779a8.jpg" style="width: 300px; height: auto;" alt="Imagem">
       </td>
       <td style="border: none;">
         <!-- Estatísticas do GitHub -->
@@ -30,23 +40,7 @@
   </table>
 </div>
 
-
-
-
-
-
-
-
-
  
-<div align="center">
-  <h3>Main skills:</h3>
-  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Dart-0D1117?style=for-the-badge&logo=dart&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Flutter-0D1117?style=for-the-badge&logo=flutter&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117">&nbsp; 
-</div>
 
 <div align="center">
   <h3>Studying in this moment:</h3>
