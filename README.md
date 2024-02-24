@@ -24,7 +24,7 @@
     <tr>
       <td style="border: none;">
         <!-- Imagem -->
-        <img src="https://i.pinimg.com/originals/09/1c/c9/091cc95737fd417103a9e805e0d779a8.jpg" style="width: 300px; height: auto;" alt="Imagem">
+        <img src="https://i.pinimg.com/originals/09/1c/c9/091cc95737fd417103a9e805e0d779a8.jpg" style="width: 450px; height: auto;" alt="Imagem">
       </td>
       <td style="border: none;">
         <!-- Estatísticas do GitHub -->
