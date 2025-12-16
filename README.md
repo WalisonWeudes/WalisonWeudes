@@ -33,6 +33,13 @@
   </table>
 </div>
 
+### Tecnologias que já utilizei
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WalisonWeudes&langs_count=10&theme=dark&layout=compact&bg_color=0d1117&title_color=33CCCC&text_color=c9d1d9&hide_border=true" alt="WakaTime Stats" />
+</div>
+
+
 <div align="center">
   <br>
   <p align="center"><b>Visitors Count</b></p>  
