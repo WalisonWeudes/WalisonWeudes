@@ -1,50 +1,48 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=33CCCC&size=35&center=true&vCenter=true&width=1000&lines=Walison;Be+Welcome!+:%29)](https://git.io/typing-svg)
+<h2 align="center">Walison Weudes</h2>
+<p align="center">
+  Fullstack Developer · UI/UX Designer · Information Systems @ UFPI
+</p>
 
-<div align="center"> 
-  <a href="https://www.instagram.com/walison_w0/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%2333CCCC?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</div>
+<p align="center">
+  <a href="https://www.instagram.com/walison_w0/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-walison__w0-1D9E75?style=flat-square&logo=instagram&logoColor=white"/>
+  </a>
+</p>
 
-### Olá! Eu sou o Walison, aluno de Sistemas de Informação na UFPI. Trabalho como Fullstack Developer e também sou Design de Apps e Web. 🎨💻
+---
 
-<div align="center">
-  <h3>Principais habilidades:</h3>
-  <img src="https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=c&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-Figma-0D1117?style=for-the-badge&logo=figma&labelColor=0D1117">&nbsp;
-  <img src="https://img.shields.io/badge/-VSCode-0D1117?style=for-the-badge&logo=visual-studio-code&labelColor=0D1117">&nbsp;
-</div>
+### About
 
-<div style="text-align: center;">
-  <table style="border-collapse: collapse; margin: auto;">
-    <tr>
-      <td style="border: none;">
-        <!-- Imagem -->
-        <img src="https://i.pinimg.com/originals/09/1c/c9/091cc95737fd417103a9e805e0d779a8.jpg" style="width: 450px; height: auto;" alt="Imagem">
-      </td>
-      <td style="border: none;">
-        <!-- Estatísticas do GitHub -->
-        <div align="center">
-          <img width="100%" height="195px" src="https://github-readme-stats.vercel.app/api?username=WalisonWeudes&show_icons=true&count_private=true&hide_border=true&title_color=33CCCC&icon_color=33CCCC&text_color=c9d1d9&bg_color=0d1117" alt="Walison Weudes github stats" />
-        </div>
-      </td>
-    </tr>
-  </table>
-</div>
+Student of Information Systems at the Universidade Federal do Piauí (UFPI), working as a Fullstack Developer and App & Web Designer. Focused on building functional and well-crafted digital products.
 
-### Tecnologias que já utilizei
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=WalisonWeudes&langs_count=10&theme=dark&layout=compact&bg_color=0d1117&title_color=33CCCC&text_color=c9d1d9&hide_border=true" alt="WakaTime Stats" />
-</div>
+### Core Skills
 
+<p>
+  <img src="https://img.shields.io/badge/C-0d1117?style=flat-square&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-0d1117?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Figma-0d1117?style=flat-square&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-0d1117?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+</p>
 
-<div align="center">
-  <br>
-  <p align="center"><b>Visitors Count</b></p>  
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WalisonWeudes}/count.svg" /></p> 
-  <br>
-</div>
+---
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=33CCCC&height=120&section=footer"/>
+### GitHub Stats
+
+<p align="center">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=WalisonWeudes&show_icons=true&count_private=true&hide_border=true&title_color=1D9E75&icon_color=1D9E75&text_color=c9d1d9&bg_color=0d1117"/>
+  <img height="160px" src="https://github-readme-stats.vercel.app/api/wakatime?username=WalisonWeudes&langs_count=8&theme=dark&layout=compact&bg_color=0d1117&title_color=1D9E75&text_color=c9d1d9&hide_border=true"/>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/WalisonWeudes/count.svg"/>
+  <br/>
+  <sub>profile views</sub>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=1D9E75&height=120&section=footer"/>
